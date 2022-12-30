@@ -4,7 +4,7 @@ import { getAnalytics } from "firebase/analytics";
 import {getAuth,updateProfile} from "firebase/auth";
 import {getDatabase,ref,set} from "firebase/database"
 const firebaseConfig = {
-  apiKey: "AIzaSyBOUIdIbtZ1eK-J-3EayrzLkFqEGQ3JHY0",
+  apiKey: "***************************",
   authDomain: "track-health-822b4.firebaseapp.com",
   projectId: "track-health-822b4",
   storageBucket: "track-health-822b4.appspot.com",
